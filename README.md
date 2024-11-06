@@ -2,6 +2,21 @@
 
 This repository contains code and documentation for a COVID-19 mask detection project. The project utilizes machine learning models to classify images of individuals wearing masks correctly, improperly, or not wearing a mask at all.
 
+## Libraries Used
+
+This project uses the following libraries:
+
+<p align="center">
+  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" height="40">
+  <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="NumPy" height="40">
+  <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" height="40">
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" height="40">
+  <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="Seaborn" height="40">
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" height="40">
+  <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" height="40">
+</p>
+
+
 ## 📂 Folder Structure
 
 - **📁 Code/**
