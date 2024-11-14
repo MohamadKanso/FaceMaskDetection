@@ -21,7 +21,7 @@ This project uses the following libraries:
 
 - **📁 Code/**
   - `Code.ipynb`: Main notebook containing shared functions and utilities used across models.
-  - `cnn.ipynb`: Implementation of a Convolutional Neural Network (CNN) for mask detection.
+  - `cnn.ipynb`: Implementing a Convolutional Neural Network (CNN) for mask detection.
   - `hog-kNN.ipynb`: K-Nearest Neighbors (KNN) model with Histogram of Oriented Gradients (HOG) features.
   - `hog-mlp.ipynb`: Multilayer Perceptron (MLP) model using HOG features.
   - `hog-svm.ipynb`: Support Vector Machine (SVM) model with HOG features.
@@ -33,7 +33,7 @@ This project uses the following libraries:
 
 ## 📊 Dataset
 
-The dataset used for this project is a COVID-19 mask detection dataset, containing images labeled as "mask," "no_mask," and "improper_mask." The dataset is divided into training and testing sets, with images resized to 224x224x3 RGB format. Preprocessing steps include resizing and label encoding.
+The dataset used for this project is a COVID-19 mask detection dataset, containing images labelled as "mask," "no_mask," and "improper_mask." The dataset is divided into training and testing sets, with images resized to 224x224x3 RGB format. Preprocessing steps include resizing and label encoding.
 
 For more details on the dataset, refer to the report or access the dataset through the [Google Drive link](https://drive.google.com/drive/folders/1zRYOcP13nh3Aw-smSF3n7LgfVS6LepaK?usp=share_link) 📁.
 
@@ -57,11 +57,5 @@ The CNN model achieved the highest accuracy (92.79% 🏆), demonstrating superio
 | HOG + KNN   | 1 min    | 87.77%      | 86.00%      | 87.00%       | 88.00%    |
 | CNN         | 20 mins  | 92.79%      | 92.69%      | 92.89%       | 92.79%    |
 
-## 📌 Additional Notes
 
-- **Limitations**: 🚫 Only some files may be available due to file size restrictions. For access to all resources, refer to the Google Drive link above.
-- **References**: 📚 For model methodologies and other technical details, see references in the report.
 
-## ✉️ Contact
-
-For questions or further details, please reach out to the author.
